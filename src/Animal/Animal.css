@@ -1,3 +1,7 @@
+.animal {
+  width: 15vw;
+}
+
 .animal-name {
     text-transform: uppercase;
     font-weight: bold;
